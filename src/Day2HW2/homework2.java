@@ -2,12 +2,9 @@ package Day2HW2;
 
 public class homework2 {
 
-	public static void main (String args[]) {
+	public void getInfo() {
 		
-		
-		
-		System.out.println("homework 2");
+		System.out.println("PUSH 2");
 	}
-	
 	
 }
